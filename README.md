@@ -2,11 +2,12 @@
 
 ## Scanning
 
+Let's start with scanning
 **nmap 192.168.122.140**
 
 ![Bluemoon%20Vulnhub%20Walkthrough%2010e2007117b147f6a70f1b9f90d26bf6/Untitled.png](Bluemoon%20Vulnhub%20Walkthrough%2010e2007117b147f6a70f1b9f90d26bf6/Untitled.png)
 
-**nmap -sV -A 192.168.122.140**
+**nmap -sV -A 192.168.122.140** (Service version scan)
 
 ![Bluemoon%20Vulnhub%20Walkthrough%2010e2007117b147f6a70f1b9f90d26bf6/Untitled%201.png](Bluemoon%20Vulnhub%20Walkthrough%2010e2007117b147f6a70f1b9f90d26bf6/Untitled%201.png)
 
